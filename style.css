@@ -1,6 +1,5 @@
 body {
     max-width: 4000px;
-    /* min-width: 360px; */
     font-family: Arial, Helvetica, sans-serif;
 }
 p {
@@ -38,7 +37,6 @@ header {
     display: inline-block;
     padding: 2px;
     margin: auto;
-    /* font-family: Arial, Helvetica, sans-serif; */
 }
 
 .vertical-line {
@@ -53,7 +51,6 @@ header {
 
 .nav-bar {
     width: 100%;
-    /* font-family: Arial, Helvetica, sans-serif; */
 }
 
 .nav-bar ul {
@@ -138,7 +135,6 @@ li a:hover {
 
 .content p {
     color:rgb(52, 156, 52);
-    /* font-family: Arial, Helvetica, sans-serif; */
     font-weight: bold;
     
     
@@ -282,14 +278,11 @@ li a:hover {
 
 .about-content h1 {
     color:rgb(52, 156, 52);
-    /* font-family: 'Times New Roman', Times, serif; */
     font-size: 4em;
 }
 
 .about-content h2 {
     font-size: 2.25em;
-    /* font-family: Georgia, 'Times New Roman', Times, serif; */
-    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
 }
 .about-content p {
     font-family: Arial, Helvetica, sans-serif;
@@ -299,7 +292,6 @@ li a:hover {
 
 .call-to-action {
     text-align: center;
-    /* font-family: Georgia, 'Times New Roman', Times, serif; */
     font-size: 20px;
     padding-top: 5%;
     padding-bottom: 5%;
@@ -585,9 +577,7 @@ footer .info-left img {
 }
 
 .services-content {
-    /* flex: 2; */
     width: 60%;
-    /* font-family: Arial, Helvetica, sans-serif; */
 }
 
 .services-content p {
@@ -600,7 +590,6 @@ footer .info-left img {
 }
 
 .services-images img {
-    /* height: 250px; */
     width: 400px;
     padding-top: 5%;
     float: right;
@@ -635,9 +624,6 @@ footer .info-left img {
 .option-icon {
     width: 20%;
     flex: 1;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
     text-align: center;
 }
 
@@ -908,7 +894,6 @@ hr {
 
 .copyright span {
     color: rgb(51, 19, 19);
-    /* font-family: Arial, Helvetica, sans-serif; */
 }
 
 .links-to-leadinjection {
@@ -1036,36 +1021,6 @@ hr {
         width: 100%;
        
     }
-
-
-/* 
-
-
-    .services {
-        
-        background-color: blueviolet;
-    }
-
-    .services-content{
-        width: 100%;
-        background-color: pink;
-    }
-
-    .services-images {
-        width: 300px;
-        
-        text-align: center;
-        background-color: blue;
-        
-    }
-
-    .services-images img {
-        margin: auto;
-        background-color: red;
-        height: auto;
-        width: auto;
-        
-    } */
 
     .projects {
         width: 100%;
@@ -1485,7 +1440,6 @@ hr {
         outline: none;
         color: white;
         background-color: inherit;
-        /* font-family: inherit; */
         margin: 0;
     }
     
@@ -1696,7 +1650,6 @@ hr {
     .people {
         display: flex;
         justify-content: flex-start;
-        /* align-items: flex-end; */
     }
 
     footer .info-left img {
@@ -1705,7 +1658,5 @@ hr {
     
     footer p {
         line-height: 1.5;
-    }
-    
-    
+    }  
 }
