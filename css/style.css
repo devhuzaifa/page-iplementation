@@ -91,7 +91,7 @@ li a:hover {
     border: 3px solid green;
     border: none;
     text-align: center;
-    background-image: url('front-image.jpg');
+    background-image: url(front-image.jpg);
     background-size: cover; /* background-size: 100% 100%; for stretching on screen resize*/
     object-fit:cover;
     background-position: fixed;
@@ -337,7 +337,7 @@ li a:hover {
 .questions-wrapper {
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
+    width: 90%;
     margin: auto;
     margin-top: 5%;
     
@@ -1011,13 +1011,13 @@ hr {
 
     .questions-left p, .questions-right p {
         margin: auto;
-        width: 100%;
+        width: 90%;
         margin-left: 0px;
         text-align: start;
     }
 
     .green-bg-p {
-        width: 100%;
+        width: 90%;
         margin-left: 0%;
         padding: 10px;
     }
